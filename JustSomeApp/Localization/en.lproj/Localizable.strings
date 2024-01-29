@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  SwiftUIBlueprint
+
+  Created by Dino Trnka on 19. 4. 2022..
+  
+*/
+
+"Login.UsernameField.Title" = "Username";
+"Login.PasswordField.Title" = "Password";
+"Login.LoginButton.Title" = "Login";
